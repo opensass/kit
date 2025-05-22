@@ -22,3 +22,6 @@
 [submodule "navbar"]
 	path = navbar
 	url = https://github.com/opensass/navbar
+[submodule "radio-rs"]
+	path = radio-rs
+	url = https://github.com/opensass/radio-rs

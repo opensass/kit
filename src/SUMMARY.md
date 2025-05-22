@@ -12,4 +12,5 @@
   - [Image](./components/image-rs.md)
   - [Input](./components/input-rs.md)
   - [Navbar](./components/navbar.md)
+  - [Radio](./components/radio-rs.md)
   - [Skeleton](./components/skeleton-rs.md)

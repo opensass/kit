@@ -8,5 +8,6 @@ members = [
     "image-rs",
     "input-rs",
     "navbar",
+    "radio-rs",
     "skeleton-rs",
 ]
