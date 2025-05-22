@@ -4,5 +4,6 @@ members = [
     "accordion-rs",
     "alert-rs",
     "eld",
+    "i18n-rs",
     "skeleton-rs",
 ]
