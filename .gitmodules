@@ -34,3 +34,6 @@
 [submodule "sidebar"]
 	path = sidebar
 	url = https://github.com/opensass/sidebar
+[submodule "slider-rs"]
+	path = slider-rs
+	url = https://github.com/opensass/slider-rs

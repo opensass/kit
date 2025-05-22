@@ -13,4 +13,5 @@ members = [
     "select-rs",
     "sidebar",
     "skeleton-rs",
+    "slider-rs",
 ]

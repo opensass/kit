@@ -17,3 +17,4 @@
   - [Select](./components/select-rs.md)
   - [Sidebar](./components/sidebar.md)
   - [Skeleton](./components/skeleton-rs.md)
+  - [Slider](./components/slider-rs.md)
