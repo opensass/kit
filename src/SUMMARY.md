@@ -18,3 +18,4 @@
   - [Sidebar](./components/sidebar.md)
   - [Skeleton](./components/skeleton-rs.md)
   - [Slider](./components/slider-rs.md)
+  - [Table](./components/table-rs.md)

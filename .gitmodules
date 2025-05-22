@@ -37,3 +37,6 @@
 [submodule "slider-rs"]
 	path = slider-rs
 	url = https://github.com/opensass/slider-rs
+[submodule "table-rs"]
+	path = table-rs
+	url = https://github.com/opensass/table-rs
