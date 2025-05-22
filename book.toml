@@ -1,0 +1,27 @@
+[book]
+authors = ["wiseaidev"]
+language = "en"
+src = "src"
+title = "Open SASS Components kit User Manual"
+
+[preprocessor.tabs]
+
+[output.html]
+additional-css = ["theme/main.css", "theme/tabs.css"]
+additional-js = ["theme/tabs.js"]
+edit-url-template = "https://github.com/opensass/kit/edit/main/book/{path}"
+git-repository-url = "https://github.com/opensass/kit"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+runnable = false
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
