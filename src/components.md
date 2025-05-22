@@ -4,15 +4,19 @@
 
 ## 📦 Component Categories
 
-| Category     | Components                                 |
-| ------------ | ------------------------------------------ |
-| Buttons      | `Button`                                   |
-| Forms        | `Input`, `Select`, `Checkbox`, `Radio`     |
-| Layout       | `Grid`, `Container`, `Card`, `Spacer`      |
-| Navigation   | `Navbar`, `Sidebar`, `Tabs`, `Breadcrumb`  |
-| Feedback     | `Modal`, `Toast`, `Alert`, `Tooltip`       |
-| Data Display | `Badge`, `Avatar`, `Progress`, `Accordion` |
-| Utilities    | `Loader`, `Divider`, `Skeleton`            |
+| Category     | Components                                                                           |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Data Display | `Accordion`, `Avatar`, `Badge`, `Card`, `Code`, `Image`, `Snippet`, `Table`, `User`  |
+| Data Entry   | `Checkbox`, `Form`, `Input`, `Listbox`, `OTP`, `Radio`, `Select`, `Slider`, `Switch` |
+| Date & Time  | `Calendar`, `Date`, `Time Input`                                                     |
+| Feedback     | `Alert`, `Progress`, `Skeleton`, `Spinner`, `Toast`, `Tooltip`                       |
+| Navigation   | `Breadcrumbs`, `Navbar`, `Pagination`, `Sidebar`, `Tabs`                             |
+| Overlays     | `Drawer`, `Dropdown`, `Modal`, `Popover`                                             |
+| Structure    | `Divider`, `Spacer`                                                                  |
+| Utilities    | `Autocomplete`, `Kbd`, `OTP`                                                         |
+| Localization | `I18n`                                                                               |
+| System       | `ELD`, `Theme`                                                                       |
+| Typography   | `Kbd`, `Link`                                                                        |
 
 ## 🚀 Getting Started
 
