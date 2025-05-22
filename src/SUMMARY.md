@@ -10,4 +10,5 @@
   - [ELD](./components/eld.md)
   - [I18n](./components/i18n.md)
   - [Image](./components/image-rs.md)
+  - [Input](./components/input-rs.md)
   - [Skeleton](./components/skeleton-rs.md)
