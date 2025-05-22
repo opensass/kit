@@ -10,3 +10,6 @@
 [submodule "eld"]
 	path = eld
 	url = https://github.com/opensass/eld
+[submodule "i18n-rs"]
+	path = i18n-rs
+	url = https://github.com/opensass/i18n-rs

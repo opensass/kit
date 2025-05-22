@@ -2688,6 +2688,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "i18nrs"
+version = "0.1.6"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "log",
+ "serde_json",
+ "web-sys",
+ "yew",
+]
+
+[[package]]
 name = "icu_collections"
 version = "1.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
