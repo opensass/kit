@@ -15,4 +15,5 @@
   - [Radio](./components/radio-rs.md)
   - [Scroll](./components/scroll-rs.md)
   - [Select](./components/select-rs.md)
+  - [Sidebar](./components/sidebar.md)
   - [Skeleton](./components/skeleton-rs.md)

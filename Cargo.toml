@@ -11,5 +11,6 @@ members = [
     "radio-rs",
     "scroll-rs",
     "select-rs",
+    "sidebar",
     "skeleton-rs",
 ]
