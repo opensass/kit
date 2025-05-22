@@ -11,4 +11,5 @@
   - [I18n](./components/i18n.md)
   - [Image](./components/image-rs.md)
   - [Input](./components/input-rs.md)
+  - [Navbar](./components/navbar.md)
   - [Skeleton](./components/skeleton-rs.md)
