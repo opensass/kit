@@ -19,3 +19,6 @@
 [submodule "input-rs"]
 	path = input-rs
 	url = https://github.com/opensass/input-rs
+[submodule "navbar"]
+	path = navbar
+	url = https://github.com/opensass/navbar
