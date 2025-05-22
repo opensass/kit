@@ -40,3 +40,6 @@
 [submodule "table-rs"]
 	path = table-rs
 	url = https://github.com/opensass/table-rs
+[submodule "theme-rs"]
+	path = theme-rs
+	url = https://github.com/opensass/theme
