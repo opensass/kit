@@ -2845,6 +2845,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "image-rs"
+version = "0.1.1"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "gloo-net 0.6.0",
+ "leptos 0.8.2",
+ "log",
+ "serde_json",
+ "wasm-bindgen-futures",
+ "web-sys",
+ "yew",
+]
+
+[[package]]
 name = "imara-diff"
 version = "0.1.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2881,6 +2896,19 @@ checksum = "cea70ddb795996207ad57735b50c5982d8844f38ba9ee5f1aedcfb708a2aa11e"
 dependencies = [
  "equivalent",
  "hashbrown 0.15.3",
+]
+
+[[package]]
+name = "input-rs"
+version = "0.2.5"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "leptos 0.7.8",
+ "regex",
+ "serde",
+ "web-sys",
+ "yew",
 ]
 
 [[package]]
