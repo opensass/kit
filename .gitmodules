@@ -25,3 +25,6 @@
 [submodule "radio-rs"]
 	path = radio-rs
 	url = https://github.com/opensass/radio-rs
+[submodule "scroll-rs"]
+	path = scroll-rs
+	url = https://github.com/opensass/scroll-rs

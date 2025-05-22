@@ -9,5 +9,6 @@ members = [
     "input-rs",
     "navbar",
     "radio-rs",
+    "scroll-rs",
     "skeleton-rs",
 ]

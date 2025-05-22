@@ -32,7 +32,7 @@
 You can import Radio RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
-os add radio-rs yew
+os add radiors yew
 ```
 
 {{#endtab}}
@@ -67,7 +67,7 @@ os add radio-rs yew
 You can import Radio RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
-os add radio-rs dio
+os add radiors dio
 ```
 
 {{#endtab}}
@@ -102,7 +102,7 @@ os add radio-rs dio
 You can import Radio RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
-os add radio-rs lep
+os add radiors lep
 ```
 
 {{#endtab }}
