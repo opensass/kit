@@ -17,3 +17,17 @@ members = [
     "table-rs",
     "theme-rs",
 ]
+
+[workspace.package]
+version = "0.0.1"
+name = "kit"
+authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
+edition = "2024"
+description = "Top level crate for the opensass kit repository."
+license = "MIT"
+repository = "https://github.com/opensass/kit"
+homepage = "https://opensass.org/kit"
+documentation = "https://opensass.org/kit"
+keywords = ["ui", "gui", "yew", "dioxus", "leptos"]
+rust-version = "1.80.0"
+publish = false
