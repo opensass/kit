@@ -13,4 +13,5 @@
   - [Input](./components/input-rs.md)
   - [Navbar](./components/navbar.md)
   - [Radio](./components/radio-rs.md)
+  - [Scroll](./components/scroll-rs.md)
   - [Skeleton](./components/skeleton-rs.md)
