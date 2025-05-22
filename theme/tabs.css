@@ -1,0 +1,53 @@
+.mdbook-tabs {
+	display: flex;
+	font-family: "JetBrains Mono", "Fira Code", monospace;
+	margin-top: 2rem;
+	margin-left: 1.5rem;
+	border-radius: 10px;
+}
+
+.mdbook-tab {
+	background-color: var(--table-alternate-bg, #2a2f3a);
+	color: #cfd8e3;
+	padding: 0.8rem 1.4rem;
+	margin-right: 0.3rem;
+	font-size: 1.8rem;
+	cursor: pointer;
+	border: none;
+	transition: all 0.3s ease;
+	border-radius: 6px 6px 0 0;
+	display: inline-block;
+}
+
+.mdbook-tab:hover {
+	background-color: #3c4455;
+	color: #ffffff;
+}
+
+.mdbook-tab.active {
+	background-color: var(--table-header-bg, #4c566a);
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.mdbook-tab-content {
+	padding: 1.5rem;
+	width: 55vw;
+	color: #d8dee9;
+}
+
+.mdbook-tab-content table {
+	margin: unset;
+}
+
+@media (max-width: 768px) {
+	.mdbook-tabs {
+		flex-direction: column;
+	}
+
+	.mdbook-tab {
+		margin-bottom: 0.5rem;
+		margin-right: 0;
+		border-radius: 6px;
+	}
+}

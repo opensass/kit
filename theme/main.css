@@ -1,0 +1,43 @@
+:root {
+	--sidebar-target-width: 160px;
+}
+
+iframe {
+	width: 80vw;
+	height: 100vh;
+	border: none;
+	overflow: hidden;
+	min-height: 100%;
+}
+#content > * {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	box-sizing: border-box;
+}
+
+#searchresults a,
+.content a:link,
+a:visited,
+a > .hljs {
+	text-decoration: none;
+}
+
+.mdbook-button {
+	color: #fff;
+	padding: 0.6rem 1.2rem;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	margin-top: 1rem;
+}
+
+.mdbook-button:hover {
+	background-color: #565b61;
+	color: #fff;
+}
+
+.nav-chapters {
+	min-width: 35px;
+}
