@@ -1,3 +1,6 @@
 [submodule "skeleton-rs"]
 	path = skeleton-rs
 	url = https://github.com/opensass/skeleton-rs
+[submodule "accordion-rs"]
+	path = accordion-rs
+	url = https://github.com/opensass/accordion-rs

@@ -5,5 +5,5 @@
 - [Introduction](./introduction.md)
 
 - [Components](./components.md)
-
+  - [Accordion](./components/accordion-rs.md)
   - [Skeleton](./components/skeleton-rs.md)
