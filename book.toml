@@ -2,7 +2,7 @@
 authors = ["wiseaidev"]
 language = "en"
 src = "src"
-title = "Open SASS Components kit User Manual"
+title = "Open SASS Components Kit"
 
 [preprocessor.tabs]
 
