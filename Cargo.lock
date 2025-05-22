@@ -3840,6 +3840,18 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "74765f6d916ee2faa39bc8e68e4f3ed8949b48cccdac59983d287a7cb71ce9c5"
 
 [[package]]
+name = "radiors"
+version = "0.0.5"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "leptos 0.7.8",
+ "log",
+ "web-sys",
+ "yew",
+]
+
+[[package]]
 name = "rand"
 version = "0.8.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
