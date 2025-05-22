@@ -7,3 +7,6 @@
 [submodule "alert-rs"]
 	path = alert-rs
 	url = https://github.com/opensass/alert-rs
+[submodule "eld"]
+	path = eld
+	url = https://github.com/opensass/eld

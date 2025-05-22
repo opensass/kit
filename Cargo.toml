@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = [
+    "accordion-rs",
+    "alert-rs",
+    "eld",
+    "skeleton-rs",
+]
