@@ -28,3 +28,6 @@
 [submodule "scroll-rs"]
 	path = scroll-rs
 	url = https://github.com/opensass/scroll-rs
+[submodule "select-rs"]
+	path = select-rs
+	url = https://github.com/opensass/select-rs
