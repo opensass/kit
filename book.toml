@@ -9,7 +9,7 @@ title = "Open SASS Components Kit"
 [output.html]
 additional-css = ["theme/main.css", "theme/tabs.css"]
 additional-js = ["theme/tabs.js"]
-edit-url-template = "https://github.com/opensass/kit/edit/main/book/{path}"
+edit-url-template = "https://github.com/opensass/kit/edit/main/{path}"
 git-repository-url = "https://github.com/opensass/kit"
 
 [output.html.playground]
