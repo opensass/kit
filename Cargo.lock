@@ -4129,6 +4129,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "selectrs"
+version = "0.0.2"
+dependencies = [
+ "bump2version",
+ "log",
+ "yew",
+]
+
+[[package]]
 name = "semver"
 version = "1.0.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
