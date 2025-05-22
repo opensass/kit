@@ -31,3 +31,6 @@
 [submodule "select-rs"]
 	path = select-rs
 	url = https://github.com/opensass/select-rs
+[submodule "sidebar"]
+	path = sidebar
+	url = https://github.com/opensass/sidebar
