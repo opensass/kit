@@ -4718,6 +4718,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "theme"
+version = "0.0.3"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "leptos 0.8.2",
+ "log",
+ "serde",
+ "web-sys",
+ "yew",
+]
+
+[[package]]
 name = "thiserror"
 version = "1.0.69"
 source = "registry+https://github.com/rust-lang/crates.io-index"

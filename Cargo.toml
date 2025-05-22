@@ -15,4 +15,5 @@ members = [
     "skeleton-rs",
     "slider-rs",
     "table-rs",
+    "theme-rs",
 ]

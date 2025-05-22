@@ -19,3 +19,4 @@
   - [Skeleton](./components/skeleton-rs.md)
   - [Slider](./components/slider-rs.md)
   - [Table](./components/table-rs.md)
+  - [Theme](./components/theme.md)
