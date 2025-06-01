@@ -43,3 +43,6 @@
 [submodule "theme-rs"]
 	path = theme-rs
 	url = https://github.com/opensass/theme
+[submodule "browser-rs"]
+	path = browser-rs
+	url = https://github.com/opensass/browser-rs

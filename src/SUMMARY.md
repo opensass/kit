@@ -37,6 +37,7 @@
     - [Tooltip (TODO)]()
   - [Navigation]()
     - [Breadcrumbs (TODO)]()
+    - [Browser](./components/browser-rs.md)
     - [Navbar](./components/navbar.md)
     - [Pagination (TODO)]()
     - [Sidebar](./components/sidebar.md)
