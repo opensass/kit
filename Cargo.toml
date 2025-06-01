@@ -3,6 +3,7 @@ resolver = "3"
 members = [
     "accordion-rs",
     "alert-rs",
+    "browser-rs",
     "eld",
     "i18n-rs",
     "image-rs",
@@ -19,7 +20,7 @@ members = [
 ]
 
 [workspace.package]
-version = "0.0.1"
+version = "0.0.2"
 name = "kit"
 authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
 edition = "2024"
