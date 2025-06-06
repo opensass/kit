@@ -270,7 +270,7 @@ checksum = "cfa8873f51c92e232f9bac4065cddef41b714152812bfc5f7672ba16d6ef8cd9"
 
 [[package]]
 name = "browser-rs"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
  "bump2version",
  "dioxus",
@@ -2677,6 +2677,18 @@ name = "hermit-abi"
 version = "0.3.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d231dfb89cfffdbc30e7fc41579ed6066ad03abda9e567ccafae602b97ec5024"
+
+[[package]]
+name = "hero"
+version = "0.0.1"
+dependencies = [
+ "bump2version",
+ "dioxus",
+ "leptos 0.8.2",
+ "log",
+ "web-sys",
+ "yew",
+]
 
 [[package]]
 name = "home"

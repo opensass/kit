@@ -35,6 +35,8 @@
     - [Spinner (TODO)]()
     - [Toast (TODO)]()
     - [Tooltip (TODO)]()
+  - [Landing Page]()
+    - [Hero](./components/hero.md)
   - [Navigation]()
     - [Breadcrumbs (TODO)]()
     - [Browser](./components/browser-rs.md)
