@@ -46,3 +46,6 @@
 [submodule "browser-rs"]
 	path = browser-rs
 	url = https://github.com/opensass/browser-rs
+[submodule "hero"]
+	path = hero
+	url = https://github.com/opensass/hero

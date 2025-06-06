@@ -10,7 +10,8 @@
 | Data Entry   | `Checkbox`, `Form`, `Input`, `Listbox`, `OTP`, `Radio`, `Select`, `Slider`, `Switch` |
 | Date & Time  | `Calendar`, `Date`, `Time Input`                                                     |
 | Feedback     | `Alert`, `Progress`, `Skeleton`, `Spinner`, `Toast`, `Tooltip`                       |
-| Navigation   | `Breadcrumbs`, `Browser` `Navbar`, `Pagination`, `Sidebar`, `Tabs`                   |
+| Landing Page | `Hero`                                                                               |
+| Navigation   | `Breadcrumbs`, `Browser`, `Navbar`, `Pagination`, `Sidebar`, `Tabs`                  |
 | Overlays     | `Drawer`, `Dropdown`, `Modal`, `Popover`                                             |
 | Structure    | `Divider`, `Spacer`                                                                  |
 | Utilities    | `Autocomplete`, `Kbd`, `OTP`                                                         |

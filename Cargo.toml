@@ -5,6 +5,7 @@ members = [
     "alert-rs",
     "browser-rs",
     "eld",
+    "hero",
     "i18n-rs",
     "image-rs",
     "input-rs",
