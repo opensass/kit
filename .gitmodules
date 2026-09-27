@@ -49,3 +49,12 @@
 [submodule "hero"]
 	path = hero
 	url = https://github.com/opensass/hero
+[submodule "card-rs"]
+	path = card-rs
+	url = https://github.com/opensass/card-rs.git
+[submodule "avatar"]
+	path = avatar
+	url = https://github.com/opensass/avatar.git
+[submodule "badges-rs"]
+	path = badges-rs
+	url = https://github.com/opensass/badges-rs.git

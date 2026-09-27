@@ -6,6 +6,7 @@ title = "Open SASS Components Kit"
 
 [preprocessor.tabs]
 
+
 [output.html]
 additional-css = ["theme/main.css", "theme/tabs.css"]
 additional-js = ["theme/tabs.js"]
