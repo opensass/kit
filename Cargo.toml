@@ -7,24 +7,29 @@ members = [
     "browser-rs",
     "badges-rs",
     "card-rs",
+    "coders",
     "eld",
+    "form-rs",
     "hero",
     "i18n-rs",
     "image-rs",
     "input-rs",
     "navbar",
+    "otprs",
+    "pride-rs",
     "radio-rs",
     "scroll-rs",
     "select-rs",
     "sidebar",
     "skeleton-rs",
     "slider-rs",
+    "sushi-rs",
     "table-rs",
     "theme-rs",
 ]
 
 [workspace.package]
-version = "0.0.4"
+version = "0.1.0"
 name = "kit"
 authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
 edition = "2024"
