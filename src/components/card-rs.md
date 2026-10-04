@@ -54,7 +54,7 @@ os add card-rs yew
 ## Usage
 
 <iframe
-  src="https://card-rs.netlify.app"
+  src="https://card-dio.netlify.app"
   title="Card RS Dioxus Examples"
   loading="lazy"
   allowfullscreen
@@ -89,7 +89,7 @@ os add card-rs dio
 ## Usage
 
 <iframe
-  src="https://card-rs.netlify.app"
+  src="https://card-lep.netlify.app"
   title="Card RS Leptos Examples"
   loading="lazy"
   allowfullscreen

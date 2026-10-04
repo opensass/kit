@@ -54,7 +54,7 @@ os add avatar yew
 ## Usage
 
 <iframe
-  src="https://avatar-rs.netlify.app"
+  src="https://avatar-dio.netlify.app"
   title="Avatar RS Dioxus Examples"
   loading="lazy"
   allowfullscreen
@@ -89,7 +89,7 @@ os add avatar dio
 ## Usage
 
 <iframe
-  src="https://avatar-rs.netlify.app"
+  src="https://avatar-lep.netlify.app"
   title="Avatar RS Leptos Examples"
   loading="lazy"
   allowfullscreen
