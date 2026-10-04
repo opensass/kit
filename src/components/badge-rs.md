@@ -1,4 +1,4 @@
-# Badges RS
+# Badge RS
 
 {{#tabs }}
 
@@ -20,16 +20,16 @@
 
 <iframe
   src="https://badges-rs.netlify.app"
-  title="Badges RS Yew Examples"
+  title="Badge RS Yew Examples"
   loading="lazy"
   allowfullscreen
-  aria-label="Live Yew example using Badges RS"
+  aria-label="Live Yew example using Badge RS"
 >
 </iframe>
 
 ## CLI Usage
 
-You can import Badges RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
+You can import Badge RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
 os add badges-rs yew
@@ -54,17 +54,17 @@ os add badges-rs yew
 ## Usage
 
 <iframe
-  src="https://badges-rs.netlify.app"
-  title="Badges RS Dioxus Examples"
+  src="https://badges-dio.netlify.app"
+  title="Badge RS Dioxus Examples"
   loading="lazy"
   allowfullscreen
-  aria-label="Live Dioxus example using Badges RS"
+  aria-label="Live Dioxus example using Badge RS"
 >
 </iframe>
 
 ## CLI Usage
 
-You can import Badges RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
+You can import Badge RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
 os add badges-rs dio
@@ -89,17 +89,17 @@ os add badges-rs dio
 ## Usage
 
 <iframe
-  src="https://badges-rs.netlify.app"
-  title="Badges RS Leptos Examples"
+  src="https://badges-lep.netlify.app"
+  title="Badge RS Leptos Examples"
   loading="lazy"
   allowfullscreen
-  aria-label="Live Leptos example using Badges RS"
+  aria-label="Live Leptos example using Badge RS"
 >
 </iframe>
 
 ## CLI Usage
 
-You can import Badges RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
+You can import Badge RS directly into your project to customize and modify it using the [opensass cli](https://github.com/opensass/cli):
 
 ```sh
 os add badges-rs lep

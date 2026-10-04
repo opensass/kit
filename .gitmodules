@@ -58,3 +58,18 @@
 [submodule "badges-rs"]
 	path = badges-rs
 	url = https://github.com/opensass/badges-rs.git
+[submodule "coders"]
+	path = coders
+	url = https://github.com/opensass/coders
+[submodule "otprs"]
+	path = otprs
+	url = https://github.com/opensass/otprs
+[submodule "form-rs"]
+	path = form-rs
+	url = https://github.com/opensass/form-rs
+[submodule "sushi-rs"]
+	path = sushi-rs
+	url = https://github.com/opensass/sushi-rs
+[submodule "pride-rs"]
+	path = pride-rs
+	url = https://github.com/opensass/pride-rs
